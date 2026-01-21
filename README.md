@@ -96,9 +96,9 @@ http://localhost:5000
 4.Delete confirmation
 ![alt text](image-3.png)
 
-🎥 Demo Video:
+🎥 Demo Video:https://drive.google.com/file/d/1AGfrByoHYsB4RW571UTBpzlRw2ViC0GR/view?usp=sharing
 
-🌐 Live Demo: 
+🌐 Live Demo: https://task-manager-peach-xi.vercel.app/
 
 👨‍💻 Author
 
