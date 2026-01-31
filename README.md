@@ -42,9 +42,10 @@ Task-Manager/
 ```
 
 ⚙️ Setup Instructions
+
 1️⃣ Clone the repository
 ```
-git clone <your-github-repo-link>
+git clone https://github.com/Shantanu01B/Task-Manager
 cd Task-Manager
 ```
 
