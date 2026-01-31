@@ -55,8 +55,13 @@ cd server
 npm install
 ```
 Create a .env file inside the server: MONGO_URI=your_mongodb_connection_string
+
 PORT=5000
-Start backend server: node index.js
+
+Start backend server:
+```
+node index.js
+```
 
 3️⃣ Frontend Setup
 ```
@@ -65,6 +70,7 @@ npm install
 npm run dev
 ```
 Frontend runs on: http://localhost:5173
+
 Backend runs on: http://localhost:5000
 
 
