@@ -39,51 +39,6 @@ Task-Manager/
 ├── client/   → React frontend
 ├── server/   → Node.js backend
 └── README.md
-```
-Here is your content formatted into a professional README structure, keeping your exact wording and details intact.
-
-Markdown
-# 📝 Task Management Web Application
-
-A full-stack Task Management web application that allows users to create, view, update, delete, and search tasks.
-
----
-
-### 🚀 Features
-* Add new tasks with a title and description
-* View all tasks in a clean, card-based UI
-* Edit task title and status (Pending / Completed)
-* Delete tasks with confirmation
-* Search tasks by title
-* Responsive and user-friendly interface
-
----
-
-### 🛠 Tech Stack
-
-**Frontend**
-* React (Vite)
-* Tailwind CSS
-* Axios
-
-**Backend**
-* Node.js
-* Express.js
-
-**Database**
-* MongoDB (MongoDB Atlas)
-
-**Tools**
-* Git & GitHub
-
----
-
-### 📂 Project Structure
-```text
-Task-Manager/
-├── client/   → React frontend
-├── server/   → Node.js backend
-└── README.md
 
 
 ⚙️ Setup Instructions
