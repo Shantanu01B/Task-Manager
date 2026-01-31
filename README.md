@@ -39,27 +39,33 @@ Task-Manager/
 ├── client/   → React frontend
 ├── server/   → Node.js backend
 └── README.md
-
+```
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
+```
 git clone <your-github-repo-link>
 cd Task-Manager
+```
 
 2️⃣ Backend Setup
+```
 cd server
 npm install
+```
 Create a .env file inside the server: MONGO_URI=your_mongodb_connection_string
 PORT=5000
 Start backend server: node index.js
 
 3️⃣ Frontend Setup
+```
 cd ../client
 npm install
 npm run dev
+```
 Frontend runs on: http://localhost:5173
 Backend runs on: http://localhost:5000
-```
+
 
 📸 Screenshots:
 
